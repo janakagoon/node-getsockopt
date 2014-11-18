@@ -1,0 +1,12 @@
+{
+  "name": "node-getsockopt",
+  "description": "Node add-in that exposes Unix getsockopt in node.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c9wireless/whitelist-proxy.git"
+  },
+  "dependencies": {
+    "jslint": "~0.6.4"
+  }
+}
