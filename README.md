@@ -1,8 +1,8 @@
 A module that exposes getsockopt Unix functionality in node.js.
 
 To build, type:
-npm install
-make
+1. npm install
+2. make
 
 To test, type:
-nodeunit test.js
+1. nodeunit test.js
