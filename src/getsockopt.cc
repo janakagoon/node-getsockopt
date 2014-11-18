@@ -1,6 +1,6 @@
 /**
  * getsockopt.cc 
- * jgoonasekera@boingo.com
+ * jgoonasekera@github.com
  * 
  * Exposes a subset of socket options as a node js module. 
  * Currently implements:
