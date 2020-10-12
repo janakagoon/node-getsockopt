@@ -16,3 +16,6 @@ This module can be easily extended to support additional properties.
 Add something
 
 TEST-1 #comment hello hello hello 
+
+TEST-1 #comment This is a new comment
+
