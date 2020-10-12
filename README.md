@@ -13,9 +13,4 @@ This module was created because the existing node getsockopt modules do not have
 
 This module can be easily extended to support additional properties. 
 
-Add something
-
-TEST-1 #comment hello hello hello 
-
-TEST-1 #comment This is a new comment
 
